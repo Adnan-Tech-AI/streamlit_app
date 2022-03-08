@@ -1,1 +1,2 @@
-pip install phonenumbers
+python -m pip install --upgrade pip
+python -m pip install phonenumbers
