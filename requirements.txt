@@ -1,1 +1,2 @@
+pip install --upgrade pip -i https://pypi.python.org/simple
 pip install phonenumbers
