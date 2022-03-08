@@ -1,7 +1,4 @@
-from asyncio.windows_events import NULL
-from operator import index
 import time
-from turtle import up
 import streamlit as st
 import phonenumbers as ph
 import pandas as pd
